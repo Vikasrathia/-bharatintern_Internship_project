@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(10, 10, 47);
+}
+.page{
+    width: 40rem;
+    height: 40rem;
+    background-color: rgb(25, 25, 72);
+    margin-left: 27rem;
+    margin-top: 4rem;
+    border: solid 2px rgb(124, 125, 158);
+    border-radius: 7%;
+}
+.head{
+    font-size: 2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: pink;
+    margin-top: -36rem;
+    margin-left:33.7rem;
+}
+.converter-row{
+    margin-left: 34rem;
+    margin-top: 8rem;
+}
+.col{
+    margin-top: 3rem;
+    font-size: 1rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: pink;
+    margin-bottom: 3rem;
+}
+#fahrenheit{
+    margin-left: 2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1rem;
+    color: rgb(101, 19, 178);
+    background-color: rgb(159, 159, 217);
+    width: 10rem;
+}
+#celsius{
+    margin-left: 3.8rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1rem;
+    color: rgb(101, 19, 178);
+    background-color: rgb(159, 159, 217);
+    width: 10rem;
+}
+#kelvin{
+    margin-left: 4rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1rem;
+    color: rgb(101, 19, 178);
+    background-color: rgb(159, 159, 217);
+    width: 10rem;
+}
+#img2{
+    margin-top:-30rem;
+    width: 15rem;
+    height: 15rem;
+    margin-left: 53rem;
+}
